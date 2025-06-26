@@ -10,7 +10,7 @@ A simple, responsive ToDo list web application built using **Spring Boot**, **Th
 - UI built with Bootstrap
 - Server-side rendered using Thymeleaf
 
-## 📸 ScreenShot
+##  ScreenShot
 
 ![screenshot](screenshots/ui-preview.png)
 
